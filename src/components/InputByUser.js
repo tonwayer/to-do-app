@@ -13,7 +13,7 @@ function InputByUser(Props) {
         className="inputbox__style"
         onChange={handleChange}
         type="input"
-        placeholder="e.g. Make Pizza"
+        placeholder="e.g. Make a cup of coffee"
         value={inputText}
         required
       />

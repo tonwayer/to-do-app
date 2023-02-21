@@ -32,29 +32,29 @@
 .logo__nav {
   font-size: 2rem;
   font-weight: 600;
-  color: #13c4a3;
+  color: #125abe;
 }
 
 .btn__nav {
   text-decoration: none;
-  color: #13c4a3;
+  color: #125abe;
   background-color: #f9f5eb;
   border-radius: 40px;
   padding: 1rem 1.5rem;
-  border: 1px solid #13c4a3;
+  border: 1px solid #125abe;
 }
 
 .btn__nav:visited {
-  color: #13c4a3;
+  color: #125abe;
 }
 
 .btn__nav:active {
-  color: #94fbab;
+  color: #298de8;
 }
 
 .btn__nav:hover {
   color: white;
-  background-color: #13c4a3;
+  background-color: #125abe;
   border: none;
 }
 
@@ -62,7 +62,7 @@
   width: 40%;
   margin: 0 auto;
   text-align: left;
-  background-color: #13c4a3;
+  background-color: #125abe;
   margin-top: 3rem;
   border-radius: 10px;
   color: white;
@@ -151,7 +151,7 @@
 
 /* When the checkbox is checked, add a blue background */
 .container input:checked ~ .checkmark {
-  background-color: #a0d995;
+  background-color: #55c0f4;
 }
 
 /* Create the checkmark/indicator (hidden when not checked) */
@@ -193,7 +193,7 @@ input[type=checkbox]:checked + span.strikethrough {
 }
 
 .inputbox__style {
-  background-color: #13c4a3;
+  background-color: #125abe;
   border: none;
   border-color: white;
   padding: 1rem;
